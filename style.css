@@ -1,0 +1,58 @@
+body
+
+{background-color: HoneyDew;}
+
+.header {
+  font-family: 'Caveat Brush', cursive;
+  padding: 60px;
+  text-align: center;
+  background: #D2691E;
+  color: white;
+  font-size: 30px;
+  border-radius: 20px;
+}
+
+.header a {
+  font-family: 'Antonio', sans-serif;
+  float: center;
+  color: HoneyDew;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+.header a:hover {
+  background-color: #F0FFF0;
+  color: DarkSalmon;
+}
+
+.boxed {
+  font-family: 'Antonio', sans-serif;
+  padding: 30px;
+  text-align: left;
+  background: #8FBC8F;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+
+}
+.boxed2 {
+  font-family: 'Antonio', sans-serif;
+  padding: 30px;
+  text-align: left;
+  background: #6B8E23;
+  color: white;
+  font-size: 16px;
+  border-radius: 20px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
